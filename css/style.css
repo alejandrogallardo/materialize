@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headers{
+    text-transform: uppercase;
+    text-align: center;
+}
+.slideShow .row .col{
+    padding: 0;
+}
+footer .textFooter{
+    padding: 20px;
+}
+.logo{
+    /* padding-top: 15px; */
+    width: 25px;
+}
